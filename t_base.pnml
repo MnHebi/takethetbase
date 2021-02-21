@@ -1,0 +1,3 @@
+#include "src/pnml/gui_color.pnml"
+#include "src/pnml/header.pnml"
+#include "src/pnml/tile_replacement.pnml"

@@ -1,0 +1,21 @@
+
+$(shell mkdir -p build/lang)
+
+SRC_FILES := $(wildcard src/*.py)
+LANG_FILES := $(patsubst lang/%,$(LANG_DIR)/%,$(wildcard lang/*.lng))
+
+NML := ./nmlc_monkey
+
+$(NML_FILE): $(LANG_FILES)
+
+$(LANG_DIR)/%.lng: %.lng
+	cp $< $@
+
+$(DEFAULT_LANG_FILE): src/lang/english.lng src/lang/constants
+	cat $^ > $@
+
+build/a_base.pnml: $(SRC_FILES)
+	src/main.py blocks > $@
+
+clean::
+	rm -rf build/*
