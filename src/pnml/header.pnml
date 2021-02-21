@@ -1,0 +1,8 @@
+grf {
+    grfid: "MN\0A\0B";
+    name: string(STR_GRF_NAME);
+    desc: string(STR_GRF_DESC_FORMAT, string(STR_GRF_DESC));
+    url: string(STR_GRF_URL);
+    version: GRF_VERSION;
+    min_compatible_version: 0;
+ }

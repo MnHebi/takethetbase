@@ -1,0 +1,42 @@
+replace(675, "src/sprites/675.png")
+	{
+	[0, 0, 16, 16, 0, 0]
+}
+
+replace(676, "src/sprites/676.png")
+	{
+	[0, 0, 16, 20, 0, 0]
+}
+
+replace(677, "src/sprites/677.png")
+	{
+	[0, 0, 20, 20, 0, 0]
+}
+
+replace(678, "src/sprites/678.png")
+	{
+	[0, 0, 40, 20, 0, 0]
+}
+
+replace manager(743, "src/sprites/743.png")
+	{
+	[0, 0, 20, 20, 0, 0]
+}
+
+alternative_sprites(manager, ZOOM_LEVEL_IN_2X, BIT_DEPTH_8BPP, "src/sprites/743_2x.png")
+	{
+	[0, 0, 40, 40, 0, 0]
+}
+
+replace(789) {
+ recolour_sprite {
+	0xCD: 0x27;
+	0xCC: 0x3B;
+	0xCB: 0x26;
+	0xCA: 0x3A;
+	0xC9: 0x25;
+	0xC8: 0x39;
+	0xC7: 0x24;
+	0xC6: 0x38;
+ }
+}
