@@ -269,6 +269,101 @@ replace(2371, "src/sprites/2371.png")
 	[0, 0, 64, 39, -31, -8]
 }
 
+replace(3924, "src/sprites/3924.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(3925, "src/sprites/3925.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(3926, "src/sprites/3926.png")
+	{
+	[0, 0, 64, 23, -31, 0]
+}
+
+replace(3927, "src/sprites/3927.png")
+	{
+	[0, 0, 64, 23, -31, 0]
+}
+
+replace(3928, "src/sprites/3928.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(3929, "src/sprites/3929.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(3930, "src/sprites/3930.png")
+	{
+	[0, 0, 64, 23, -31, 0]
+}
+
+replace(3931, "src/sprites/3931.png")
+	{
+	[0, 0, 64, 23, -31, 0]
+}
+
+replace(3932, "src/sprites/3932.png")
+	{
+	[0, 0, 64, 39, -31, -8]
+}
+
+replace(3933, "src/sprites/3933.png")
+	{
+	[0, 0, 64, 39, -31, -8]
+}
+
+replace(3934, "src/sprites/3934.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(3935, "src/sprites/3935.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(3936, "src/sprites/3936.png")
+	{
+	[0, 0, 64, 39, -31, -8]
+}
+
+replace(3937, "src/sprites/3937.png")
+	{
+	[0, 0, 64, 39, -31, -8]
+}
+
+replace(3938, "src/sprites/3938.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(3939, "src/sprites/3939.png")
+	{
+	[0, 0, 64, 47, -31, -16]
+}
+
+replace(3940, "src/sprites/3940.png")
+	{
+	[0, 0, 64, 15, -31, 0]
+}
+
+replace(3941, "src/sprites/3941.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(3942, "src/sprites/3942.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
 replace(3981, "src/sprites/3981.png")
 	{
 	[0, 0, 64, 31, -31, 0]
@@ -500,6 +595,16 @@ replace(4126, "src/sprites/4126.png")
 }
 
 replace(4164, "src/sprites/4164.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(4202, "src/sprites/4202.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(4221, "src/sprites/4221.png")
 	{
 	[0, 0, 64, 31, -31, 0]
 }
