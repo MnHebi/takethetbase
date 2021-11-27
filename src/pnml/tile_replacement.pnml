@@ -519,6 +519,11 @@ replace(4011, "src/sprites/4011.png")
 	[0, 0, 64, 31, -31, -8]
 }
 
+replace(4012, "src/sprites/4012.png")
+	{
+	[0, 0, 64, 39, -31, -8]
+}
+
 replace(4019, "src/sprites/4019.png")
 	{
 	[0, 0, 64, 31, -31, 0]
