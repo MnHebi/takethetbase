@@ -198,6 +198,11 @@ replace(1319, "src/sprites/1319.png")
 	[0, 0, 64, 31, -31, 0]
 }
 
+replace(1319, "src/sprites/1320.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
 replace(1332, "src/sprites/1332.png")
 	{
 	[0, 0, 64, 31, -31, 0]
@@ -209,6 +214,36 @@ replace(1333, "src/sprites/1333.png")
 }
 
 replace(1334, "src/sprites/1334.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1335, "src/sprites/1335.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1336, "src/sprites/1336.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1337, "src/sprites/1337.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1338, "src/sprites/1338.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1339, "src/sprites/1339.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1341, "src/sprites/1341.png")
 	{
 	[0, 0, 64, 31, -31, 0]
 }
@@ -527,6 +562,31 @@ replace(4012, "src/sprites/4012.png")
 replace(4013, "src/sprites/4013.png")
 	{
 	[0, 0, 64, 39, -31, -8]
+}
+
+replace(4014, "src/sprites/4014.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(4015, "src/sprites/4015.png")
+	{
+	[0, 0, 64, 47, -31, -16]
+}
+
+replace(4016, "src/sprites/4016.png")
+	{
+	[0, 0, 64, 15, -31, 0]
+}
+
+replace(4017, "src/sprites/4017.png")
+	{
+	[0, 0, 64, 31, -31, -8]
+}
+
+replace(4018, "src/sprites/4018.png")
+	{
+	[0, 0, 64, 31, -31, -8]
 }
 
 replace(4019, "src/sprites/4019.png")
