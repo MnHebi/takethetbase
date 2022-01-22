@@ -304,6 +304,31 @@ replace(2371, "src/sprites/2371.png")
 	[0, 0, 64, 39, -31, -8]
 }
 
+replace(2645, "src/sprites/2645.png")
+	{
+	[0, 0, 64, 31, -31, 0, ANIM]
+}
+
+replace(2646, "src/sprites/2646.png")
+	{
+	[0, 0, 64, 31, -31, 0, ANIM]
+}
+
+replace(2647, "src/sprites/2647.png")
+	{
+	[0, 0, 64, 31, -31, 0, ANIM]
+}
+
+replace(2648, "src/sprites/2648.png")
+	{
+	[0, 0, 64, 31, -31, 0, ANIM]
+}
+
+replace(2649, "src/sprites/2649.png")
+	{
+	[0, 0, 64, 31, -31, 0, ANIM]
+}
+
 replace(3924, "src/sprites/3924.png")
 	{
 	[0, 0, 64, 31, -31, 0]
