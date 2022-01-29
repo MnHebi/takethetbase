@@ -198,7 +198,12 @@ replace(1319, "src/sprites/1319.png")
 	[0, 0, 64, 31, -31, 0]
 }
 
-replace(1319, "src/sprites/1320.png")
+replace(1320, "src/sprites/1320.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(1322, "src/sprites/1322.png")
 	{
 	[0, 0, 64, 31, -31, 0]
 }
@@ -302,6 +307,11 @@ replace(2367, "src/sprites/2367.png")
 replace(2371, "src/sprites/2371.png")
 	{
 	[0, 0, 64, 39, -31, -8]
+}
+
+replace(2525, "src/sprites/2525.png")
+	{
+	[0, 0, 6, 11, 0, -5]
 }
 
 replace(2645, "src/sprites/2645.png")
