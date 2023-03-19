@@ -168,6 +168,26 @@ replace(1069, "src/sprites/1069.png")
 	[0, 0, 42, 23, -9, -3]
 }
 
+replace(1070, "src/sprites/1070.png")
+	{
+	[0, 0, 42, 23, -31, -3]
+}
+
+replace(1071, "src/sprites/1071.png")
+	{
+	[0, 0, 42, 23, -9, -3]
+}
+
+replace(1072, "src/sprites/1072.png")
+	{
+	[0, 0, 42, 23, -31, -3]
+}
+
+replace(1073, "src/sprites/1073.png")
+	{
+	[0, 0, 42, 23, -31, -11]
+}
+
 replace(1087, "src/sprites/1087.png")
 	{
 	[0, 0, 32, 17, -15, 7]
