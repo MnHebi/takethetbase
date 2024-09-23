@@ -468,6 +468,51 @@ replace(1346, "src/sprites/1346.png")
 	[0, 0, 64, 39, -31, -8]
 }
 
+replace(2013, "src/sprites/2013.png")
+	{
+	[0, 0, 58, 50, -16, -33]
+}
+
+replace(2014, "src/sprites/2014.png")
+	{
+	[0, 0, 58, 50, -16, -33]
+}
+
+replace(2015, "src/sprites/2015.png")
+	{
+	[0, 0, 58, 50, -16, -33]
+}
+
+replace(2018, "src/sprites/2018.png")
+	{
+	[0, 0, 48, 41, -30, -18]
+}
+
+replace(2021, "src/sprites/2021.png")
+	{
+	[0, 0, 36, 41, -18, -24]
+}
+
+replace(2022, "src/sprites/2022.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(2023, "src/sprites/2023.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(2024, "src/sprites/2024.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(2025, "src/sprites/2025.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
 replace(2146, "src/sprites/2146.png")
 	{
 	[0, 0, 64, 31, -31, 0]
