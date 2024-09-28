@@ -550,7 +550,12 @@ replace(2152, "src/sprites/2152.png")
 
 replace(2728, "src/sprites/2728.png")
 	{
-	[0, 0, 48, 32, -15, -10]
+	[0, 0, 48, 32, -16, -7]
+}
+
+replace(2732, "src/sprites/2732.png")
+	{
+	[0, 0, 48, 32, -16, -7]
 }
 
 replace(2365, "src/sprites/2365.png")
@@ -875,104 +880,264 @@ replace(3962, "src/sprites/3962.png")
 	[0, 0, 64, 31, -31, 0]
 }
 
-replace(3981, "src/sprites/3981.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3981, "src/sprites/aric/38.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(3981, "src/sprites/3981.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(3982, "src/sprites/3982.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3982, "src/sprites/aric/39.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(3982, "src/sprites/3982.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(3983, "src/sprites/3983.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3983, "src/sprites/aric/40.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(3983, "src/sprites/3983.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(3984, "src/sprites/3984.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3984, "src/sprites/aric/41.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(3984, "src/sprites/3984.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(3985, "src/sprites/3985.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3985, "src/sprites/aric/42.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(3985, "src/sprites/3985.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(3986, "src/sprites/3986.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3986, "src/sprites/aric/43.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(3986, "src/sprites/3986.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(3987, "src/sprites/3987.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3987, "src/sprites/aric/44.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(3987, "src/sprites/3987.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(3988, "src/sprites/3988.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3988, "src/sprites/aric/45.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(3988, "src/sprites/3988.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
+if (climate == CLIMATE_ARCTIC) {
+	replace (3989, "src/sprites/aric/46.png") 
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
 replace(3989, "src/sprites/3989.png")
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(3990, "src/sprites/3990.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3990, "src/sprites/aric/47.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(3990, "src/sprites/3990.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(3991, "src/sprites/3991.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3991, "src/sprites/aric/48.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(3991, "src/sprites/3991.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(3992, "src/sprites/3992.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3992, "src/sprites/aric/49.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(3992, "src/sprites/3992.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(3993, "src/sprites/3993.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3993, "src/sprites/aric/50.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(3993, "src/sprites/3993.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(3994, "src/sprites/3994.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3994, "src/sprites/aric/51.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(3994, "src/sprites/3994.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(3995, "src/sprites/3995.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3995, "src/sprites/aric/52.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(3995, "src/sprites/3995.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(3996, "src/sprites/3996.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3996, "src/sprites/aric/53.png") 
 	{
-	[0, 0, 64, 47, -31, -16]
+		[0, 0, 64, 47, -31, -16]
+	}
+}
+else {
+	replace(3996, "src/sprites/3996.png")
+	{
+		[0, 0, 64, 47, -31, -16]
+	}
 }
 
-replace(3997, "src/sprites/3997.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3997, "src/sprites/aric/54.png") 
 	{
-	[0, 0, 64, 15, -31, 0]
+		[0, 0, 64, 15, -31, 0]
+	}
+}
+else {
+	replace(3997, "src/sprites/3997.png")
+	{
+		[0, 0, 64, 15, -31, 0]
+	}
 }
 
-replace(3998, "src/sprites/3998.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3998, "src/sprites/aric/55.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(3998, "src/sprites/3998.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(3999, "src/sprites/3999.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (3999, "src/sprites/aric/56.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(3999, "src/sprites/3999.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4000, "src/sprites/4000.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4000, "src/sprites/aric/73.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4000, "src/sprites/4000.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
 replace(4001, "src/sprites/4001.png")
@@ -1065,14 +1230,30 @@ replace(4018, "src/sprites/4018.png")
 	[0, 0, 64, 31, -31, -8]
 }
 
-replace(4019, "src/sprites/4019.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4019, "src/sprites/aric/92.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4019, "src/sprites/4019.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4020, "src/sprites/4020.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4020, "src/sprites/aric/93.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4020, "src/sprites/4020.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
 replace(4021, "src/sprites/4021.png")
@@ -1161,6 +1342,21 @@ replace(4259, "src/sprites/4259.png")
 }
 
 replace(4278, "src/sprites/4278.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(4493, "src/sprites/4493.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(4512, "src/sprites/4512.png")
+	{
+	[0, 0, 64, 31, -31, 0]
+}
+
+replace(4531, "src/sprites/4531.png")
 	{
 	[0, 0, 64, 31, -31, 0]
 }
