@@ -886,6 +886,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 31, -31, 0]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3981, "src/sprites/tral/38.png") 
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
+}
 else {
 	replace(3981, "src/sprites/3981.png")
 	{
@@ -895,6 +901,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3982, "src/sprites/aric/39.png") 
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3982, "src/sprites/tral/39.png") 
 	{
 		[0, 0, 64, 31, -31, 0]
 	}
@@ -912,6 +924,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 23, -31, 0]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3983, "src/sprites/tral/40.png") 
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
+}
 else {
 	replace(3983, "src/sprites/3983.png")
 	{
@@ -921,6 +939,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3984, "src/sprites/aric/41.png") 
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3984, "src/sprites/tral/41.png") 
 	{
 		[0, 0, 64, 23, -31, 0]
 	}
@@ -938,6 +962,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 31, -31, 0]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3985, "src/sprites/tral/42.png") 
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
+}
 else {
 	replace(3985, "src/sprites/3985.png")
 	{
@@ -947,6 +977,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3986, "src/sprites/aric/43.png") 
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3986, "src/sprites/tral/43.png") 
 	{
 		[0, 0, 64, 31, -31, 0]
 	}
@@ -964,6 +1000,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 23, -31, 0]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3987, "src/sprites/tral/44.png") 
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
+}
 else {
 	replace(3987, "src/sprites/3987.png")
 	{
@@ -973,6 +1015,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3988, "src/sprites/aric/45.png") 
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3988, "src/sprites/tral/45.png") 
 	{
 		[0, 0, 64, 23, -31, 0]
 	}
@@ -990,6 +1038,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 39, -31, -8]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3989, "src/sprites/tral/46.png") 
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
+}
 else {
 replace(3989, "src/sprites/3989.png")
 	{
@@ -999,6 +1053,12 @@ replace(3989, "src/sprites/3989.png")
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3990, "src/sprites/aric/47.png") 
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3990, "src/sprites/tral/47.png") 
 	{
 		[0, 0, 64, 39, -31, -8]
 	}
@@ -1016,6 +1076,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 31, -31, -8]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3991, "src/sprites/tral/48.png") 
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
+}
 else {
 	replace(3991, "src/sprites/3991.png")
 	{
@@ -1025,6 +1091,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3992, "src/sprites/aric/49.png") 
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3992, "src/sprites/tral/49.png") 
 	{
 		[0, 0, 64, 31, -31, -8]
 	}
@@ -1042,6 +1114,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 39, -31, -8]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3993, "src/sprites/tral/50.png") 
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
+}
 else {
 	replace(3993, "src/sprites/3993.png")
 	{
@@ -1051,6 +1129,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3994, "src/sprites/aric/51.png") 
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3994, "src/sprites/tral/51.png") 
 	{
 		[0, 0, 64, 39, -31, -8]
 	}
@@ -1068,6 +1152,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 31, -31, -8]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3995, "src/sprites/tral/52.png") 
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
+}
 else {
 	replace(3995, "src/sprites/3995.png")
 	{
@@ -1077,6 +1167,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3996, "src/sprites/aric/53.png") 
+	{
+		[0, 0, 64, 47, -31, -16]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3996, "src/sprites/tral/53.png") 
 	{
 		[0, 0, 64, 47, -31, -16]
 	}
@@ -1094,6 +1190,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 15, -31, 0]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3997, "src/sprites/tral/54.png") 
+	{
+		[0, 0, 64, 15, -31, 0]
+	}
+}
 else {
 	replace(3997, "src/sprites/3997.png")
 	{
@@ -1107,6 +1209,12 @@ if (climate == CLIMATE_ARCTIC) {
 		[0, 0, 64, 31, -31, -8]
 	}
 }
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3998, "src/sprites/tral/55.png") 
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
+}
 else {
 	replace(3998, "src/sprites/3998.png")
 	{
@@ -1116,6 +1224,12 @@ else {
 
 if (climate == CLIMATE_ARCTIC) {
 	replace (3999, "src/sprites/aric/56.png") 
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else if (climate == CLIMATE_TROPICAL) {
+	replace (3999, "src/sprites/tral/56.png") 
 	{
 		[0, 0, 64, 31, -31, -8]
 	}
@@ -1140,94 +1254,238 @@ else {
 	}
 }
 
-replace(4001, "src/sprites/4001.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4001, "src/sprites/aric/74.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4001, "src/sprites/4001.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4002, "src/sprites/4002.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4002, "src/sprites/aric/75.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4002, "src/sprites/4002.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4003, "src/sprites/4003.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4003, "src/sprites/aric/76.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4003, "src/sprites/4003.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4004, "src/sprites/4004.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4004, "src/sprites/aric/77.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4004, "src/sprites/4004.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4005, "src/sprites/4005.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4005, "src/sprites/aric/78.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4005, "src/sprites/4005.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4006, "src/sprites/4006.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4006, "src/sprites/aric/79.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4006, "src/sprites/4006.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4007, "src/sprites/4007.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4007, "src/sprites/aric/80.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4007, "src/sprites/4007.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4008, "src/sprites/4008.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4008, "src/sprites/aric/81.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4008, "src/sprites/4008.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4009, "src/sprites/4009.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4009, "src/sprites/aric/82.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4009, "src/sprites/4009.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4010, "src/sprites/4010.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4010, "src/sprites/aric/83.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4010, "src/sprites/4010.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4011, "src/sprites/4011.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4011, "src/sprites/aric/84.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4011, "src/sprites/4011.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4012, "src/sprites/4012.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4012, "src/sprites/aric/85.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4012, "src/sprites/4012.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4013, "src/sprites/4013.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4013, "src/sprites/aric/86.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4013, "src/sprites/4013.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4014, "src/sprites/4014.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4014, "src/sprites/aric/87.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4014, "src/sprites/4014.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4015, "src/sprites/4015.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4015, "src/sprites/aric/88.png") 
 	{
-	[0, 0, 64, 47, -31, -16]
+		[0, 0, 64, 47, -31, -16]
+	}
+}
+else {
+	replace(4015, "src/sprites/4015.png")
+	{
+		[0, 0, 64, 47, -31, -16]
+	}
 }
 
-replace(4016, "src/sprites/4016.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4016, "src/sprites/aric/89.png") 
 	{
-	[0, 0, 64, 15, -31, 0]
+		[0, 0, 64, 15, -31, 0]
+	}
+}
+else {
+	replace(4016, "src/sprites/4016.png")
+	{
+		[0, 0, 64, 15, -31, 0]
+	}
 }
 
-replace(4017, "src/sprites/4017.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4017, "src/sprites/aric/90.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4017, "src/sprites/4017.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4018, "src/sprites/4018.png")
+if (climate == CLIMATE_ARCTIC) {
+	replace (4018, "src/sprites/aric/91.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4018, "src/sprites/4018.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
 if (climate == CLIMATE_ARCTIC) {
@@ -1361,99 +1619,251 @@ replace(4531, "src/sprites/4531.png")
 	[0, 0, 64, 31, -31, 0]
 }
 
-replace(4550, "src/sprites/4550.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4550, "src/sprites/tral/350.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4550, "src/sprites/4550.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4551, "src/sprites/4551.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4551, "src/sprites/tral/351.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4551, "src/sprites/4551.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4552, "src/sprites/4552.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4552, "src/sprites/tral/352.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4552, "src/sprites/4552.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4553, "src/sprites/4553.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4553, "src/sprites/tral/353.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4553, "src/sprites/4553.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4554, "src/sprites/4554.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4554, "src/sprites/tral/354.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4554, "src/sprites/4554.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4555, "src/sprites/4555.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4555, "src/sprites/tral/355.png") 
 	{
-	[0, 0, 64, 31, -31, 0]
+		[0, 0, 64, 31, -31, 0]
+	}
+}
+else {
+	replace(4555, "src/sprites/4555.png")
+	{
+		[0, 0, 64, 31, -31, 0]
+	}
 }
 
-replace(4556, "src/sprites/4556.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4556, "src/sprites/tral/356.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4556, "src/sprites/4556.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4557, "src/sprites/4557.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4557, "src/sprites/tral/357.png") 
 	{
-	[0, 0, 64, 23, -31, 0]
+		[0, 0, 64, 23, -31, 0]
+	}
+}
+else {
+	replace(4557, "src/sprites/4557.png")
+	{
+		[0, 0, 64, 23, -31, 0]
+	}
 }
 
-replace(4558, "src/sprites/4558.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4558, "src/sprites/tral/358.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4558, "src/sprites/4558.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4559, "src/sprites/4559.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4559, "src/sprites/tral/359.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4559, "src/sprites/4559.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4560, "src/sprites/4560.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4560, "src/sprites/tral/360.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4560, "src/sprites/4560.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4561, "src/sprites/4561.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4561, "src/sprites/tral/361.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4561, "src/sprites/4561.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4562, "src/sprites/4562.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4562, "src/sprites/tral/362.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4562, "src/sprites/4562.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4563, "src/sprites/4563.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4563, "src/sprites/tral/363.png") 
 	{
-	[0, 0, 64, 39, -31, -8]
+		[0, 0, 64, 39, -31, -8]
+	}
+}
+else {
+	replace(4563, "src/sprites/4563.png")
+	{
+		[0, 0, 64, 39, -31, -8]
+	}
 }
 
-replace(4564, "src/sprites/4564.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4564, "src/sprites/tral/364.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4564, "src/sprites/4564.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4565, "src/sprites/4565.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4565, "src/sprites/tral/365.png") 
 	{
-	[0, 0, 64, 47, -31, -16]
+		[0, 0, 64, 47, -31, -16]
+	}
+}
+else {
+	replace(4565, "src/sprites/4565.png")
+	{
+		[0, 0, 64, 47, -31, -16]
+	}
 }
 
-replace(4566, "src/sprites/4566.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4566, "src/sprites/tral/366.png") 
 	{
-	[0, 0, 64, 15, -31, 0]
+		[0, 0, 64, 15, -31, 0]
+	}
+}
+else {
+	replace(4566, "src/sprites/4566.png")
+	{
+		[0, 0, 64, 15, -31, 0]
+	}
 }
 
-replace(4567, "src/sprites/4567.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4567, "src/sprites/tral/367.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4567, "src/sprites/4567.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
-replace(4568, "src/sprites/4568.png")
+if (climate == CLIMATE_TROPICAL) {
+	replace (4568, "src/sprites/tral/368.png") 
 	{
-	[0, 0, 64, 31, -31, -8]
+		[0, 0, 64, 31, -31, -8]
+	}
+}
+else {
+	replace(4568, "src/sprites/4568.png")
+	{
+		[0, 0, 64, 31, -31, -8]
+	}
 }
 
 
