@@ -18,14 +18,24 @@ replace(678, "src/sprites/678.png")
 	[0, 0, 40, 20, 0, 0]
 }
 
-replace manager(743, "src/sprites/743.png")
+replace(723, "src/sprites/723.png")
+	{
+	[0, 0, 20, 20, 4, 0]
+}
+
+replace(727, "src/sprites/727.png")
+	{
+	[0, 0, 20, 20, 2, 0]
+}
+
+replace(731, "src/sprites/731.png")
 	{
 	[0, 0, 20, 20, 0, 0]
 }
 
-alternative_sprites(manager, ZOOM_LEVEL_IN_2X, BIT_DEPTH_8BPP, "src/sprites/743_2x.png")
+replace(743, "src/sprites/743.png")
 	{
-	[0, 0, 40, 40, 0, 0]
+	[0, 0, 20, 20, 0, 0]
 }
 
 //replace(789) {
