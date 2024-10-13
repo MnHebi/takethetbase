@@ -33,6 +33,11 @@ replace(731, "src/sprites/731.png")
 	[0, 0, 20, 20, 0, 0]
 }
 
+replace(732, "src/sprites/732.png")
+	{
+	[0, 0, 20, 20, 1, 6]
+}
+
 replace(743, "src/sprites/743.png")
 	{
 	[0, 0, 20, 20, 0, 0]
