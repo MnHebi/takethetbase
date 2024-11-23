@@ -20,12 +20,28 @@ replace(678, "src/sprites/678.png")
 
 replace(723, "src/sprites/723.png")
 	{
-	[0, 0, 20, 20, 4, 0]
+	[0, 0, 20, 20, 0, 0]
+}
+
+replace(724, "src/sprites/724.png")
+	{
+	[0, 0, 20, 20, 0, 0]
+}
+
+
+replace(725, "src/sprites/725.png")
+	{
+	[0, 0, 20, 20, 0, 0]
 }
 
 replace(727, "src/sprites/727.png")
 	{
-	[0, 0, 20, 20, 2, 0]
+	[0, 0, 20, 20, 0, 0]
+}
+
+replace(728, "src/sprites/728.png")
+	{
+	[0, 0, 20, 20, 0, 0]
 }
 
 replace(731, "src/sprites/731.png")
@@ -35,7 +51,12 @@ replace(731, "src/sprites/731.png")
 
 replace(732, "src/sprites/732.png")
 	{
-	[0, 0, 20, 20, 1, 6]
+	[0, 0, 20, 20, 0, 0]
+}
+
+replace(4083, "src/sprites/4083.png")
+	{
+	[0, 0, 20, 20, 0, 0]
 }
 
 replace(743, "src/sprites/743.png")
